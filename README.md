@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I'm **Yuxuan Zhou**, an electrical engineering researcher and developer with an academic background at **The University of Queensland (UQ)**.
+I'm **Yuxuan Zhou**,fishing bachelor and master degrree at **The University of Queensland (UQ)**.
 
 I work at the intersection of **power electronics**, **renewable energy**, **embedded systems**, and **machine learning** — connecting simulation, control, implementation, and engineering validation.
 
